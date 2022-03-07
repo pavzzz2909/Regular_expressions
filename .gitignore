@@ -1,0 +1,7 @@
+__pycache__/
+.git/
+
+start.py
+panda_main.py
+phonebook_raw.csv
+phonebook.csv
